@@ -4,9 +4,9 @@ include('_start.php');
 $databasemanagar->addConnection([
     'driver' => 'mysql',
     'host' => 'localhost',
-    'database' => 'xxx',
-    'username' => 'ttt',
-    'password' => 'zzz',
+    'database' => 'albondemand',
+    'username' => 'root',
+    'password' => 'nderim1@',
     'charset' => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix' => '',
